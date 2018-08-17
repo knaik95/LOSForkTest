@@ -1,0 +1,3 @@
+## Sprint blobs - Pinned to G900PVPU3BOK4_G900PSPT3BOK4_SPR
+# Radio
+lib/libsec-ril.so:vendor/lib/libsec-ril.spr.so|408510e5d9d1935522aba554da81347f29932902
